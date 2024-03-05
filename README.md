@@ -1,4 +1,5 @@
 # AQIPython
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://static.pepy.tech/badge/AQIPython)](https://pepy.tech/project/AQIPython)
 ## Description
 AQIPython is a Python module that calculates the Air Quality Index (AQI) for various air pollutants based on different standards. The module takes pollutant concentration values in parts per million (PPM), milligrams per cubic meter (mg/m³), and micrograms per cubic meter (µg/m³) and provides the corresponding AQI value.
